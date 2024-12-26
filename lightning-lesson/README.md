@@ -4,7 +4,7 @@ Links:
 - [Example Notebook](https://github.com/ShawhinT/AI-Builders-Bootcamp-2/blob/main/lightning-lesson/resume_optimizer_example.ipynb)
 - [Gradio UI](https://github.com/ShawhinT/AI-Builders-Bootcamp-2/blob/main/lightning-lesson/resume_optimizer_UI.ipynb)
 - [Slides](https://github.com/ShawhinT/AI-Builders-Bootcamp-2/blob/main/lightning-lesson/slides.pdf)
-- Recording: coming soon
+- [Recording](https://youtu.be/R5WXaxmb6m4)
 
 ## How to run this example
 
